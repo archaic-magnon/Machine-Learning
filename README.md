@@ -31,13 +31,13 @@ Implemented
 
 <object data="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/DTree%20Random%20Forest/Report.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/DTree%20Random%20Forest/Report.pdf">
-        <p>See report: <a href="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/DTree%20Random%20Forest/Report.pdf">Download PDF</a>.</p>
+        <p>See report (Decision Tree, Random Forest, SVM): <a href="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/DTree%20Random%20Forest/Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 
 <object data="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/Neural%20Networks/Report.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/Neural%20Networks/Report.pdf">
-        <p>See report: <a href="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/Neural%20Networks/Report.pdf">Download PDF</a>.</p>
+        <p>See report (Neural Metwork): <a href="https://github.com/archaic-magnon/Machine-Learning/raw/master/A3/Neural%20Networks/Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
